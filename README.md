@@ -1,3 +1,3 @@
 ## Naive Bayes Classifier
 
-Naive Bayes will create a classification model that can detect spam emails.
+Run naive_bayes.py to create a classification model that can detect spam emails.
